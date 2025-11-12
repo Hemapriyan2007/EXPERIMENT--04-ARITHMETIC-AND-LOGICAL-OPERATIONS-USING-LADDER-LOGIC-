@@ -1,7 +1,7 @@
 # EXPERIMENT--04-ARITHMETIC-AND-LOGICAL-OPERATIONS-USING-LADDER-LOGIC
-#  NAME:YOGESH KUMAR.A
-# REGISTER NUMBER:212224220125
-# DEPARTMENT:B.tech IT 
+#  NAME:HEMAPRIYAN.P
+# REGISTER NUMBER:212224040116
+# DEPARTMENT:BE CSE
 # YEAR:2nd
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
