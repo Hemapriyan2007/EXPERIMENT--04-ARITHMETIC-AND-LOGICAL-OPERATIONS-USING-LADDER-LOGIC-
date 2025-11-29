@@ -1,8 +1,8 @@
 # EXPERIMENT--04-ARITHMETIC-AND-LOGICAL-OPERATIONS-USING-LADDER-LOGIC
-#  NAME:HEMAPRIYAN.P
-# REGISTER NUMBER:212224040116
-# DEPARTMENT:BE CSE
-# YEAR:2nd
+#  NAME: HEMAPRIYAN.P
+# REGISTER NUMBER: 212224040116
+# DEPARTMENT: CSE
+# YEAR: 2ND 
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
 
@@ -66,65 +66,81 @@ Run the simulation in the PLC software. Trigger each operation by pressing the i
 Logical Operations:
 Simulate the AND, OR, and NOT logic by toggling the inputs and observing the outputs.
 Download and Execute:
+
 Download the ladder logic program to the PLC if available and run it.
 Test the arithmetic and logical operations with physical push buttons and observe the LEDs or other output devices.
 
 
 ## Outputs:
-## LADDER LOGIC DIAGRAMS:
+## Ladder Logic Diagrams :
+### ADD
+<img width="809" height="174" alt="Screenshot 2025-10-09 090945" src="https://github.com/user-attachments/assets/0917d831-b623-44fd-8e21-79d1c77bf0cc" />
 
-ADD
+### SUB
+<img width="760" height="229" alt="Screenshot 2025-10-09 090958" src="https://github.com/user-attachments/assets/7da7a576-0e2f-4478-bc85-93c3fddb625b" />
 
-<img width="809" height="174" alt="image" src="https://github.com/user-attachments/assets/ccf93cfd-d197-4a06-b584-ac20bb730e88" />
+### MUL
+<img width="778" height="196" alt="Screenshot 2025-10-09 090952" src="https://github.com/user-attachments/assets/b4637a9c-877a-4f09-adb3-51f154675b2b" />
 
-SUB
+### DIV
+<img width="822" height="198" alt="Screenshot 2025-10-09 091003" src="https://github.com/user-attachments/assets/d54feeac-25ee-457e-ad2a-8b896f9f0766" />
 
-<img width="760" height="229" alt="image" src="https://github.com/user-attachments/assets/3c8a3ecf-8d74-4c27-9003-ca3593b524a3" />
+### INCREMENT
+<img width="786" height="183" alt="Screenshot 2025-10-09 091010" src="https://github.com/user-attachments/assets/eb8587f9-e3c4-4975-8e96-1bb40d05c651" />
 
-MUL
+### DECREMENT
+<img width="697" height="183" alt="Screenshot 2025-10-09 091016" src="https://github.com/user-attachments/assets/b758ec97-d56d-43d0-93f0-533bd269a3c0" />
 
-<img width="778" height="196" alt="image" src="https://github.com/user-attachments/assets/706154be-c077-4f5f-9f60-9a5afeb22d7c" />
+### AND
+<img width="761" height="198" alt="Screenshot 2025-10-09 091021" src="https://github.com/user-attachments/assets/499b3401-63b9-4bf0-aad7-c9efa66807a0" />
 
-DIV
+### OR
+<img width="807" height="220" alt="Screenshot 2025-10-09 091025" src="https://github.com/user-attachments/assets/8540af60-edff-461f-bc65-f7af9f238659" />
 
-<img width="822" height="198" alt="image" src="https://github.com/user-attachments/assets/d8df3af5-0d6f-4460-aac5-abc1bf74c065" />
+### XOR
+<img width="851" height="212" alt="Screenshot 2025-10-09 091032" src="https://github.com/user-attachments/assets/a50ef569-f6e8-4338-8cc8-2fdc95ad72fd" />
 
-INCREMENT
+### NEG
+<img width="723" height="196" alt="Screenshot 2025-10-09 091037" src="https://github.com/user-attachments/assets/a03be4fd-8fee-47d3-86a0-9c79a6fb8613" />
 
-<img width="786" height="183" alt="image" src="https://github.com/user-attachments/assets/792bc4c2-a86e-47ba-a420-434bc440f12e" />
-
-DECREMENT
-
-<img width="697" height="183" alt="image" src="https://github.com/user-attachments/assets/004c3fad-0239-4819-9257-ef2eb79b1f10" />
-
-AND
-
-<img width="761" height="198" alt="image" src="https://github.com/user-attachments/assets/8571e771-31de-4f11-935b-6c533f51ce99" />
-
-OR
-
-<img width="807" height="220" alt="image" src="https://github.com/user-attachments/assets/54c9e1ab-e135-4518-8fb8-436df7685cae" />
-
-XOR
-
-<img width="851" height="212" alt="image" src="https://github.com/user-attachments/assets/c116f7f2-366f-4195-8af9-400495df62aa" />
-
-NEG
-
-<img width="723" height="196" alt="image" src="https://github.com/user-attachments/assets/007e986f-f883-4f14-bd02-b047213d15c4" />
-
-MUL16
-
-<img width="855" height="231" alt="image" src="https://github.com/user-attachments/assets/2c55d476-c534-4ba2-96c1-8e320096e92b" />
-
-
+### MUL16
+<img width="855" height="231" alt="Screenshot 2025-10-09 091043" src="https://github.com/user-attachments/assets/fbf8a1eb-a590-491d-83c3-6806e7cfb66b" />
 
 
 ##  Simulation Screenshots:
+### ADD
+<img width="1915" height="1072" alt="Screenshot 2025-10-09 090712" src="https://github.com/user-attachments/assets/c8a53f39-797a-4e6a-8d06-6d371d38723c" />
 
-MUL
+### SUB
+<img width="1916" height="1072" alt="Screenshot 2025-10-09 090727" src="https://github.com/user-attachments/assets/de23f1f2-883a-4bfd-aeb9-60a7082ebb46" />
 
-<img width="1496" height="689" alt="image" src="https://github.com/user-attachments/assets/628c460a-287f-4454-9a4a-e35c215bae83" />
+### MUL
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090738" src="https://github.com/user-attachments/assets/bced90a9-b327-4896-8832-2c43f94da288" />
+
+### DIV
+<img width="1919" height="1077" alt="Screenshot 2025-10-09 090749" src="https://github.com/user-attachments/assets/e75b3761-41a5-4647-9323-92349e563912" />
+
+### INCREMENT
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090802" src="https://github.com/user-attachments/assets/7a02859d-ef95-4f8c-bdb8-aed5f547b856" />
+
+### DECREMENT
+<img width="1919" height="1075" alt="Screenshot 2025-10-09 090813" src="https://github.com/user-attachments/assets/b687e876-923e-426b-b841-08671dad39e4" />
+
+### AND
+<img width="1915" height="1074" alt="Screenshot 2025-10-09 090825" src="https://github.com/user-attachments/assets/6602b419-0a3d-4190-962a-342a2a698937" />
+
+### OR
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090835" src="https://github.com/user-attachments/assets/82b410a7-8d87-4117-aae3-14e45380aa05" />
+
+### XOR
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090845" src="https://github.com/user-attachments/assets/ac8c6df4-dc27-4b19-affc-fdd3b14c5714" />
+
+### NEG
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090845" src="https://github.com/user-attachments/assets/b2903e6f-fe7d-4c7b-967e-5edc26332939" />
+
+### MUL16
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090924" src="https://github.com/user-attachments/assets/629ea983-bfc7-4998-9d42-4c972120fa63" />
+
 
 
 ## Results:
